@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>k.jpg</filename>
+	<path>C:\yolo_object_detection\1_datapreparation\data_images\k.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>family member</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>5</ymin>
+			<xmax>146</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patient</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>95</ymin>
+			<xmax>325</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>
